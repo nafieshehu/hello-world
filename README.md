@@ -1,2 +1,2 @@
 # hello-world
-just another repositary
+Hi there I'm Nafi and I'm here for greate things :)
